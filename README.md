@@ -14,9 +14,9 @@ Abitur equivalent for english speaking countries
 1 Year of Coding University 42 Heilbronn (Part of the global 42 Network <link>)
 -->
 ### My work:
+* [Selfmade Raytracer](https://github.com/JonahKoellner/miniRT)
 
-[Selfmade Raytracer](https://github.com/JonahKoellner/miniRT)
-[Own Bash Shell](https://github.com/JonahKoellner/minishell)
+* [Own Bash Shell](https://github.com/JonahKoellner/minishell)
 <!-- have been codig for x years
 - languages (Python, Java, CPP, C, Rust)
 Languages & Tools:
