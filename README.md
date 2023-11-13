@@ -27,16 +27,9 @@ give projects the icon of the language as indicator in what they are written
 -->
 
 ### My Interrests:
-<!--
-- my interrests professionaly
-  - cybersecurity
-  - artificial neural networks
-  - 
-- topics i care about, also outside of coding
-  - ♻️ sustainability and recycability
-  - a little Physics 
---> 
-  </div>
+  - 🚨 Cybersecurity
+  - 🤖 Artificial neural networks
+  - ♻️ Sustainability and recycability
   - 🚀 Space <img src="https://github.com/JonahKoellner/JonahKoellner/assets/33061141/b5234209-af8d-40c7-bc5a-1770b4b813b5" width ="25"/>
 
 ### Me as a person (besides 'Coder'):
