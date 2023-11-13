@@ -32,10 +32,10 @@ give projects the icon of the language as indicator in what they are written
   - 
 - topics i care about, also outside of coding
   - ♻️ sustainability and recycability
-  - space 🚀
   - a little Physics 
 -->
 
+  - space 🚀 <img src="https://github.com/JonahKoellner/JonahKoellner/assets/33061141/b5234209-af8d-40c7-bc5a-1770b4b813b5" width ="100"/>
 
 ### Me as a person (besides 'Coder'):
 * 🏌️‍♂️ Golfer
