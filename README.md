@@ -1,4 +1,4 @@
-### 👋 Hi there !
+### 👋 Hi there ! I am Jonah Köllner
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5xaHRtYWhjbnc2eXR6MW51Y2tzdmczaGNjcWoxMzh1ZjMxc2g2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
