@@ -26,14 +26,11 @@ Abitur equivalent for english speaking countries
 -->
 
 ## Me as a person
-What am I when im not coding or working
-
-```
-🏌️‍♂️ golfer
-🏂 snowboarder
-🎮 occasionally gamerer, nowadays mostly zelda, mario, pokemon
-🐶 an annoyance to my dog (in a good / joke way, because i spend time with her, go for walks, cuddle or looking out the window)
-```
+What am I when im not coding or working ?
+* 🏌️‍♂️ Golfer
+* 🏂 Snowboarder
+* 🎮 occasionally Gamer (nowadays mostly zelda, mario, pokemon)
+* 🐶 an annoyance to my dog (in a good / joke way, because i spend time with her, go for walks, cuddle or looking out the window)
 
 <!--
 **JonahKoellner/JonahKoellner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
