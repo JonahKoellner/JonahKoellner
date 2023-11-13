@@ -15,8 +15,8 @@ Abitur equivalent for english speaking countries
 -->
 ### My work:
 
-[a link](https://github.com/JonahKoellner/miniRT)
-[miniRT](https://github.com/JonahKoellner/miniRT)
+[Selfmade Raytracer](https://github.com/JonahKoellner/miniRT)
+[Own Bash Shell](https://github.com/JonahKoellner/minishell)
 <!-- have been codig for x years
 - languages (Python, Java, CPP, C, Rust)
 Languages & Tools:
