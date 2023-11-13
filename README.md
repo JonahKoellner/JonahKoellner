@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5xaHRtYWhjbnc2eXR6MW51Y2tzdmczaGNjcWoxMzh1ZjMxc2g2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
+  <img src="https://github.com/JonahKoellner/JonahKoellner/assets/33061141/b5234209-af8d-40c7-bc5a-1770b4b813b5" width = 100/>
 </div>
 
 ![giphy](https://github.com/JonahKoellner/JonahKoellner/assets/33061141/b5234209-af8d-40c7-bc5a-1770b4b813b5)
