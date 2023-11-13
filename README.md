@@ -1,7 +1,7 @@
 ### 👋 Hi there !
 ### My name is Jonah Köllner
 
-<img src="https://giphy.com/embed/Oj25fisQ3zhukVWY96">
+<img src="[https://giphy.com/embed/Oj25fisQ3zhukVWY96](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5xaHRtYWhjbnc2eXR6MW51Y2tzdmczaGNjcWoxMzh1ZjMxc2g2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif)">
 
 <!--
 **JonahKoellner/JonahKoellner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
