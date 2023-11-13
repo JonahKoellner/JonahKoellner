@@ -34,7 +34,7 @@ give projects the icon of the language as indicator in what they are written
   - ♻️ sustainability and recycability
   - a little Physics 
 -->
-  <div align="center">
+  <div top="50%", left="50%">
     <a>test</a>
     <img src="https://github.com/JonahKoellner/JonahKoellner/assets/33061141/b5234209-af8d-40c7-bc5a-1770b4b813b5" width ="100"/>
   </div>
