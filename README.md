@@ -16,8 +16,8 @@ Abitur equivalent for english speaking countries
 ### My work:
 <!-- have been codig for x years
 - languages (Python, Java, CPP, C, Rust)
-Languages:
-Python   Java     CPP     C    Rust
+Languages & Tools:
+Python   Java     CPP     C    Rust    GIT   Docker   VMBox/UTM   Postman     Jupyter Notebook
 <iamge> <images>  <image>
 - list of projects
 give projects the icon of the language as indicator in what they are written
