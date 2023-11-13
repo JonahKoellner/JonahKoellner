@@ -15,7 +15,8 @@ Abitur equivalent for english speaking countries
 -->
 ### My work:
 
-![miniRT](https://github.com/JonahKoellner/miniRT)
+[a link](https://github.com/JonahKoellner/miniRT)
+[miniRT](https://github.com/JonahKoellner/miniRT)
 <!-- have been codig for x years
 - languages (Python, Java, CPP, C, Rust)
 Languages & Tools:
