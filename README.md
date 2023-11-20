@@ -13,7 +13,7 @@ Abitur equivalent for english speaking countries
 2 Years of University for IT, until I realized what we learned wasnt enough for me
 1 Year of Coding University 42 Heilbronn (Part of the global 42 Network <link>)
 -->
-### My work:
+### My recent work:
 * [Coding Challanges "Entwicklerheld"](https://platform.entwicklerheld.de/publicprofile/05d3f36cdc3bec4be5865cf7e94dc778)
 
 * [Coding Challanges "LeetCode"](https://leetcode.com/Jonah101010/)
