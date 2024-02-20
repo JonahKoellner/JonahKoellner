@@ -12,7 +12,7 @@
 
 ### My education:
 - Abitur Theodor-Heuss-Gymnasium
-- 2 Years of University for IT, until I realized what we learned wasnt enough for me
+- 2 Years of University for Applied Computer Science
 - 1.5 Years of Coding University 42 Heilbronn (Part of the global 42 Network [link](https://www.42heilbronn.de/de/?gad_source=1&gclid=EAIaIQobChMIzMWH4pC6hAMVWq6DBx0fgAvYEAAYASAAEgJrUfD_BwE))
 ### My recent work:
 * [Offensive Security "HackTheBox"](https://app.hackthebox.com/profile/1756041)
