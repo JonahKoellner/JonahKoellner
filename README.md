@@ -7,7 +7,7 @@
 
 ## About me
 
-- 🔭 I’m currently studiyng at 42 Heilbronn
+- 🔭 I’m currently studying at 42 Heilbronn
 - 🌱 I’m currently learning Offensive/Defensive Cyber Security
 
 ### My education:
