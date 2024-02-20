@@ -13,7 +13,7 @@
 ### My education:
 - Abitur Theodor-Heuss-Gymnasium
 - 2 Years at University Offenburg for Applied Computer Science
-- 1.5 Years of Coding University 42 Heilbronn [link](https://www.42heilbronn.de/de/?gad_source=1&gclid=EAIaIQobChMIzMWH4pC6hAMVWq6DBx0fgAvYEAAYASAAEgJrUfD_BwE) (Part of the global 42 Network [link](https://www.42network.org/42-schools/))
+- 1.5 Years of Coding University [42 Heilbronn](https://www.42heilbronn.de/de/?gad_source=1&gclid=EAIaIQobChMIzMWH4pC6hAMVWq6DBx0fgAvYEAAYASAAEgJrUfD_BwE) (Part of the global [42 Network](https://www.42network.org/42-schools/))
 ### My recent work:
 * [Offensive Security "HackTheBox"](https://app.hackthebox.com/profile/1756041)
 
