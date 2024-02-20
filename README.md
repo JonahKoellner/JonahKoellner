@@ -7,12 +7,13 @@
 
 ## About me
 
+- 🔭 I’m currently studiyng at 42 Heilbronn
+- 🌱 I’m currently learning Offensive/Defensive Cyber Security
+
 ### My education:
-<!--
-Abitur equivalent for english speaking countries
-2 Years of University for IT, until I realized what we learned wasnt enough for me
-1 Year of Coding University 42 Heilbronn (Part of the global 42 Network <link>)
--->
+- Abitur Theodor-Heuss-Gymnasium
+- 2 Years of University for IT, until I realized what we learned wasnt enough for me
+- 1.5 Years of Coding University 42 Heilbronn (Part of the global 42 Network [link](https://www.42heilbronn.de/de/?gad_source=1&gclid=EAIaIQobChMIzMWH4pC6hAMVWq6DBx0fgAvYEAAYASAAEgJrUfD_BwE))
 ### My recent work:
 * [Offensive Security "HackTheBox"](https://app.hackthebox.com/profile/1756041)
 
@@ -41,7 +42,7 @@ give projects the icon of the language as indicator in what they are written
 ### Me as a person (besides 'Coder'):
 * 🏌️‍♂️ Golfer
 * 🏂 Snowboarder
-* 🎮 occasionally Gamer (nowadays mostly zelda, mario, pokemon)
+* 🎮 occasional Gamer (nowadays mostly zelda, mario, pokemon)
 * 🌳 Hiker (often with my dog 🐶)
 
 
